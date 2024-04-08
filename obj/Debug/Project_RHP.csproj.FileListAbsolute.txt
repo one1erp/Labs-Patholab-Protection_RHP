@@ -1,0 +1,50 @@
+C:\Work\Novellus\ProjectForm\WindowsFormsApplication1\bin\Debug\Project_RHP.dll.config
+C:\Work\Novellus\ProjectForm\WindowsFormsApplication1\bin\Debug\Project_RHP.dll
+C:\Work\Novellus\ProjectForm\WindowsFormsApplication1\bin\Debug\Project_RHP.pdb
+C:\Work\Novellus\ProjectForm\WindowsFormsApplication1\bin\Debug\LSExtensionExplorer.dll
+C:\Work\Novellus\ProjectForm\WindowsFormsApplication1\bin\Debug\ProjectForm.dll
+C:\Work\Novellus\ProjectForm\WindowsFormsApplication1\bin\Debug\Novellus_DAL.dll
+C:\Work\Novellus\ProjectForm\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Work\Novellus\ProjectForm\WindowsFormsApplication1\bin\Debug\NautilusCommon.dll
+C:\Work\Novellus\ProjectForm\WindowsFormsApplication1\bin\Debug\NatilusXMLService.dll
+C:\Work\Novellus\ProjectForm\WindowsFormsApplication1\bin\Debug\Clutch.Diagnostics.EntityFramework.dll
+C:\Work\Novellus\ProjectForm\WindowsFormsApplication1\bin\Debug\ProjectForm.pdb
+C:\Work\Novellus\ProjectForm\WindowsFormsApplication1\bin\Debug\Novellus_DAL.pdb
+C:\Work\Novellus\ProjectForm\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Work\Novellus\ProjectForm\WindowsFormsApplication1\bin\Debug\NautilusCommon.pdb
+C:\Work\Novellus\ProjectForm\WindowsFormsApplication1\bin\Debug\NatilusXMLService.pdb
+C:\Work\Novellus\ProjectForm\WindowsFormsApplication1\obj\Debug\Project_RHP.csprojResolveAssemblyReference.cache
+C:\Work\Novellus\ProjectForm\WindowsFormsApplication1\obj\Debug\Project_RHP.Form1.resources
+C:\Work\Novellus\ProjectForm\WindowsFormsApplication1\obj\Debug\Project_RHP.Properties.Resources.resources
+C:\Work\Novellus\ProjectForm\WindowsFormsApplication1\obj\Debug\Project_RHP.csproj.GenerateResource.Cache
+C:\Work\Novellus\ProjectForm\WindowsFormsApplication1\obj\Debug\Project_RHP.dll
+C:\Work\Novellus\ProjectForm\WindowsFormsApplication1\obj\Debug\Project_RHP.pdb
+C:\Work\Novellus proj\ProjectForm\Project_RHP\obj\Debug\Project_RHP.csprojResolveAssemblyReference.cache
+C:\Work\Novellus proj\ProjectForm\Project_RHP\obj\Debug\Project_RHP.Form1.resources
+C:\Work\Novellus proj\ProjectForm\Project_RHP\obj\Debug\Project_RHP.Properties.Resources.resources
+C:\Work\Novellus proj\ProjectForm\Project_RHP\obj\Debug\Project_RHP.csproj.GenerateResource.Cache
+C:\Work\Novellus proj\ProjectForm\Project_RHP\obj\Debug\Project_RHP.dll
+C:\Work\Novellus proj\ProjectForm\Project_RHP\obj\Debug\Project_RHP.pdb
+C:\Work\Novellus\ProjectForm\Project_RHP\obj\Debug\Project_RHP.csprojResolveAssemblyReference.cache
+C:\Work\Novellus\ProjectForm\Project_RHP\obj\Debug\Project_RHP.Form1.resources
+C:\Work\Novellus\ProjectForm\Project_RHP\obj\Debug\Project_RHP.Properties.Resources.resources
+C:\Work\Novellus\ProjectForm\Project_RHP\obj\Debug\Project_RHP.csproj.GenerateResource.Cache
+C:\Work\Novellus\ProjectForm\Project_RHP\obj\Debug\Project_RHP.dll
+C:\Work\Novellus\ProjectForm\Project_RHP\obj\Debug\Project_RHP.pdb
+C:\Work\Novellus\ProjectForm\Project_RHP\bin\Debug\Project_RHP.dll.config
+C:\Work\Novellus\ProjectForm\Project_RHP\bin\Debug\Project_RHP.dll
+C:\Work\Novellus\ProjectForm\Project_RHP\bin\Debug\Project_RHP.pdb
+C:\Work\Novellus\ProjectForm\Project_RHP\bin\Debug\LSExtensionExplorer.dll
+C:\Work\Novellus\ProjectForm\Project_RHP\bin\Debug\NautilusCommon.dll
+C:\Work\Novellus\ProjectForm\Project_RHP\bin\Debug\ProjectForm.dll
+C:\Work\Novellus\ProjectForm\Project_RHP\bin\Debug\Novellus_DAL.dll
+C:\Work\Novellus\ProjectForm\Project_RHP\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Work\Novellus\ProjectForm\Project_RHP\bin\Debug\EntityFramework.dll
+C:\Work\Novellus\ProjectForm\Project_RHP\bin\Debug\NatilusXMLService.dll
+C:\Work\Novellus\ProjectForm\Project_RHP\bin\Debug\Clutch.Diagnostics.EntityFramework.dll
+C:\Work\Novellus\ProjectForm\Project_RHP\bin\Debug\Clutch.dll
+C:\Work\Novellus\ProjectForm\Project_RHP\bin\Debug\NautilusCommon.pdb
+C:\Work\Novellus\ProjectForm\Project_RHP\bin\Debug\Novellus_DAL.pdb
+C:\Work\Novellus\ProjectForm\Project_RHP\bin\Debug\EntityFramework.xml
+C:\Work\Novellus\ProjectForm\Project_RHP\bin\Debug\NatilusXMLService.pdb
+C:\Work\Novellus\ProjectForm\Project_RHP\bin\Debug\ProjectForm.pdb

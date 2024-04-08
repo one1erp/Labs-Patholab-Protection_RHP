@@ -1,0 +1,20 @@
+C:\Work\Patholab Proj\Protection_RHP\obj\Debug\Protection_RHP.csproj.GenerateResource.Cache
+C:\Work\Patholab Proj\Protection_RHP\bin\Debug\LSExtensionExplorer.dll
+C:\Work\Patholab Proj\Protection_RHP\obj\Debug\Protection_RHP.Properties.Resources.resources
+C:\Work\Patholab Proj\Protection_RHP\obj\Debug\Protection_RHP.dll.licenses
+C:\Work\Patholab Proj\Protection_RHP\bin\Debug\Protection_RHP.dll.config
+C:\Work\Patholab Proj\Protection_RHP\bin\Debug\Protection_RHP.dll
+C:\Work\Patholab Proj\Protection_RHP\bin\Debug\Protection_RHP.pdb
+C:\Work\Patholab Proj\Protection_RHP\obj\Debug\Protection_RHP.dll
+C:\Work\Patholab Proj\Protection_RHP\obj\Debug\Protection_RHP.pdb
+C:\Work\Patholab Proj\Protection_RHP\obj\Debug\Protection_RHP.Form1.resources
+C:\Work\Patholab Proj\Protection_RHP\obj\Debug\Protection_RHP.csprojResolveAssemblyReference.cache
+C:\Work\PatholabProj\Protection_RHP\obj\Debug\Protection_RHP.csprojResolveAssemblyReference.cache
+C:\Work\PatholabProj\Protection_RHP\obj\Debug\Protection_RHP.Form1.resources
+C:\Work\PatholabProj\Protection_RHP\obj\Debug\Protection_RHP.Properties.Resources.resources
+C:\Work\PatholabProj\Protection_RHP\obj\Debug\Protection_RHP.csproj.GenerateResource.Cache
+C:\Work\PatholabProj\Protection_RHP\obj\Debug\Protection_RHP.dll
+C:\Work\PatholabProj\Protection_RHP\obj\Debug\Protection_RHP.pdb
+C:\Work\PatholabProj\Protection_RHP\bin\Debug\Protection_RHP.dll.config
+C:\Work\PatholabProj\Protection_RHP\bin\Debug\Protection_RHP.dll
+C:\Work\PatholabProj\Protection_RHP\bin\Debug\Protection_RHP.pdb
